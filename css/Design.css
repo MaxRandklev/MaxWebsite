@@ -4,6 +4,7 @@ h1{
 	border-radius: 100px;
 	border: 10px solid #f2b12e;
 	text-align: center;
+	padding: 10px;
 }
 
 html, body{
@@ -19,6 +20,7 @@ html, body{
 	max-width: 800px;
 	margin: auto;
 	font-size: 22px;
+	padding:  10px;
 }
 
 .one{
